@@ -20,7 +20,7 @@ Como requerimiento de la práctica se deben cumplir los siguientes aspectos:
 
 Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguiente estructura:
 
- **Se ha trabajado con menús y submenús para visualizar los departamentos y tener acceso a ellos**
+**Se ha trabajado con menús y submenús para visualizar los departamentos y tener acceso a ellos**
     
     ---------------------------------------------------
            Bienvenido al menú principal            
@@ -52,6 +52,13 @@ Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguien
     c) Mostrar usuarios
     d) Salir del submenú
     Opción: 
+    
+**También se ha diseñado una estructura de directorios/carpetas donde se guardan los datos**
+    
+![](Practica2_Funciones_departamentos/imagenes/directorios.PNG)
+
+
+
 
 ## Código.
 
