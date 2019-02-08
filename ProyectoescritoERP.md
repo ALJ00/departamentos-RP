@@ -1,4 +1,4 @@
-![](BikeLogo.png)
+![](Practica2_Funciones_departamentos/BikeLogo.png)
 # Proyecto RP
 
 * [Introducción](#Introducción)
@@ -594,7 +594,7 @@ empresa.
         deja de ser una empresa pequeña y de carácter familiar, se opta por una
         solución libre y de tipo estándar, en este caso Odoo.
 
-![](imagenes/odoo.jpg)
+![](Practica2_Funciones_departamentos/imagenes/odoo.jpg)
 
 ### Odoo.
 
@@ -626,7 +626,7 @@ empresa.
         cliente, de tal forma que añadir nuevos objetos, como menús y
         formularios los hace disponibles para cualquier cliente.
 
-![](imagenes/Odoo2.PNG)
+![](Practica2_Funciones_departamentos/imagenes/Odoo2.PNG)
         
         
 ### Odoo. Estructura modular.
@@ -645,7 +645,7 @@ empresa.
     mejor estructura organizativa. Por lo tanto la estructura modular podría ir
     implantándose de la siguiente manera:
 
-![](imagenes/modulos.PNG)
+![](Practica2_Funciones_departamentos/imagenes/modulos.PNG)
 
     -   Podríamos hablar:
 
@@ -681,53 +681,53 @@ empresa.
     Primeramente habría que configurar los datos de la empresa, darla de alta en
     el sistema.
 
-![](imagenes/empresa.png)
+![](Practica2_Funciones_departamentos/imagenes/empresa.png)
 
     De seguido se podría ir seleccionando los módulos necesarios como hemos
     indicado en el apartado anterior:
 
     Módulos en general:
 
-![](imagenes/modulosERP.PNG)
+![](Practica2_Funciones_departamentos/imagenes/modulosERP.PNG)
 
 **Web:** 
-![](imagenes/web.PNG)
+![](Practica2_Funciones_departamentos/imagenes/web.PNG)
 
 **Inventario:**
 
-![](imagenes/inventario.PNG)
+![](Practica2_Funciones_departamentos/imagenes/inventario.PNG)
 
 **Empleados:**
 
-![](imagenes/empleados.PNG)
+![](Practica2_Funciones_departamentos/imagenes/empleados.PNG)
 
 **CRM:**
 
-![](imagenes/crm.PNG)
+![](Practica2_Funciones_departamentos/imagenes/crm.PNG)
 
 **Contactos de la empresa:**
 
-![](imagenes/contactos.PNG)
+![](Practica2_Funciones_departamentos/imagenes/contactos.PNG)
 
 **Marketing y ofertas:**
 
-![](imagenes/ofertasMarketing.PNG)
+![](Practica2_Funciones_departamentos/imagenes/ofertasMarketing.PNG)
 
 **Departamentos:**
 
-![](imagenes/departamentos.PNG)
+![](Practica2_Funciones_departamentos/imagenes/departamentos.PNG)
 
 **Ventas:**
 
-![](imagenes/ventas.PNG)
+![](Practica2_Funciones_departamentos/imagenes/ventas.PNG)
 
 **Órdenes de reparación – Taller:**
 
-![](imagenes/orden%20reparacion.PNG)
+![](Practica2_Funciones_departamentos/imagenes/orden%20reparacion.PNG)
 
 **Facturación contabilidad:**
 
-![](imagenes/facturaciónContabilidad.PNG)
+![](Practica2_Funciones_departamentos/imagenes/facturaciónContabilidad.PNG)
 
     A groso modo esto sería la interfaz gráfica de la estructura de la ERP de
     Odoo seleccionada. Una de las desventajas que nos encontramos ante la
@@ -767,7 +767,7 @@ empresa.
     El proceso de reparación de una bicicleta podría estructurarse de la
     siguiente manera:
 
-![](imagenes/DiagramadeProceso.PNG)
+![](Practica2_Funciones_departamentos/imagenes/DiagramadeProceso.PNG)
 
     El diagrama de proceso nos indica los departamentos que intervendrían y qué
     funciones se realizarían de una forma sencilla. No obstante esto plasmado o
@@ -779,7 +779,7 @@ empresa.
         habituales se dirigen directamente al taller y se les abre una orden de
         reparación como se indica en el diagrama superior.
 
-![](imagenes/REPARACIÓNTALLER.PNG)
+![](Practica2_Funciones_departamentos/imagenes/REPARACIÓNTALLER.PNG)
 
     2.  Una vez recepcionada esa orden de reparación por el taller se realizaría el
         servicio según los términos requeridos y a posteriori se procedería por
@@ -787,14 +787,14 @@ empresa.
         en el sistema y proceder a la comunicación con el cliente y a du
         facturación.
 
-![](imagenes/factura.PNG)
+![](Practica2_Funciones_departamentos/imagenes/factura.PNG)
 
     3.  Al emitir la factura el sistema nos requiere su validación para que así se
         refleje en el módulo de contabilidad. De este modo si se visualiza el módulo
         contable se podría observar como se genera automáticamente los asientos
         contables correspondientes.
 
-![](imagenes/apuntosContables.PNG)
+![](Practica2_Funciones_departamentos/imagenes/apuntosContables.PNG)
 
     Con esta visualización modular de este proceso empresarial se puede ver in
     situ cómo funcionaría Odoo. Con el ejemplo contable se puede ver claramente
