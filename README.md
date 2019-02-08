@@ -59,79 +59,6 @@ Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguien
 ![](Practica2_Funciones_departamentos/imagenes/directorios.PNG)
 
 ### Interacctuación entre departamentos:
-
-    # Funcion que genera una factura de venta
-    def generarFacturaVenta():
-    diccionario = []
-    control = "s"
-    totalFactura = 0
-
-    while True:
-
-        if control == "s":
-
-            producto = input("Producto: ")
-
-            if producto == "":
-                print("Error, revise los datos")
-            else:
-                valor = input("Importe: ")
-
-                importe = comprobar_numero_usuario(valor)
-
-                totalFactura += importe
-
-                linea = [producto, importe]
-                diccionario.append(linea)
-
-                control = input("Nuevo producto (s/n) ?")
-
-        elif control == "n":
-
-            print("Generando factura de venta ------>")
-
-            # Datos de cliente de la factura
-            cliente = input("Nombre cliente: ")
-            telefono = input("Teléfono: ")
-            mail = input("E-mail: ")
-            fecha = time.strftime("%d/%m/%y")
-
-            if cliente == "" or telefono == "" or mail == "":
-
-                print("Error, datos vacíos.")
-
-            else:
-                cabecera = [fecha, cliente, telefono, mail, str(totalFactura)]
-
-                # Creo un nuevo contacto para el departamento de marketing
-                contacto = [cliente, telefono, mail]
-                generarContacto(contacto)
-
-                # Obtengo el ultimo numero de la factura
-                ultNum = int(ultimoNumeroFactura())
-
-                mi_fichero = open("facturas/" + "factura" + str(ultNum + 1) + ".csv", "w+", newline="")
-
-                diccionario.append(cabecera)
-
-                with mi_fichero:
-                    writer = csv.writer(mi_fichero)
-                    writer.writerows(diccionario)
-
-                print("Creada correctamente factura nº {}".format(str(ultNum + 1)))
-                break
-
-
-        else:
-            control = input("Error, introduzca un dato correcto: (s/n)")
-            
-Con esta función se puede ver la simulación de una ERP internamente, es decir,
-la intercomunicación entre los departamentos. A la vez que se genera una factura se 
-está dando de alta un nuevo contacto en el sistema. El contacto se guardaría en el archivo `contactos.txt`
-y la venta se guardaría en `facturas`  y a su vez generado el archivo `facturaNº.csv`.
-
-
-## Código.
 ````python
 def generarFacturaVenta():
 diccionario = []
@@ -200,18 +127,15 @@ while True:
 
 ````
 
+Con esta función se puede ver la simulación de una ERP internamente, es decir,
+la intercomunicación entre los departamentos. A la vez que se genera una factura se 
+está dando de alta un nuevo contacto en el sistema. El contacto se guardaría en el archivo `contactos.txt`
+y la venta se guardaría en `facturas`  y a su vez generado el archivo `facturaNº.csv`.
+No obstante a través del video tutorial que se adjunta en el proyecto se podrá ver al detalle
+el funcionamiento del proceso.
 
 
-```javascript
-// code away!
 
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
 
 ## Video
 
