@@ -139,4 +139,4 @@ el funcionamiento del proceso.
 
 ## Video
 
-![Video Tutorial](https://www.youtube.com/watch?v=_nvZ9k6YpTE&feature=youtu.be)
+[Video Tutorial](https://www.youtube.com/watch?v=_nvZ9k6YpTE&feature=youtu.be)
