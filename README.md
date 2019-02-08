@@ -59,9 +59,6 @@ Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguien
 
 **Interacctuación entre departamentos:**
 
-
-# Funcion que genera una factura de venta
-
     # Funcion que genera una factura de venta
     def generarFacturaVenta():
     diccionario = []
