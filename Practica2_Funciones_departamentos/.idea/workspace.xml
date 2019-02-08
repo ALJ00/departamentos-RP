@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="169f6c9f-c8f8-4db9-b972-d7a89a03d74c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Practica2_Funciones_departamentos" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/program.py" />
+        <option value="$PROJECT_DIR$/program.py" />
+        <option value="$PROJECT_DIR$/reparaciones/orden95.csv" />
+        <option value="$PROJECT_DIR$/facturasVentas/ventas2.csv" />
+        <option value="$PROJECT_DIR$/facturasVentas/ventas1.csv" />
+        <option value="$PROJECT_DIR$/marketing/contactos.py" />
+        <option value="$PROJECT_DIR$/marketing/contactos.txt" />
+        <option value="$PROJECT_DIR$/clases.py" />
+        <option value="$PROJECT_DIR$/bibliografia.md" />
+        <option value="$PROJECT_DIR$/../SistemasDeGestiónEmpresarial/Proyecto escrito ERP.md" />
+        <option value="$PROJECT_DIR$/reparaciones/orden1.csv" />
+        <option value="$PROJECT_DIR$/usuarios.csv" />
+        <option value="$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/simulacionRp.py" />
+        <option value="$PROJECT_DIR$/marketing/directorioContactos/contactos.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/funciones.py" />
+        <option value="$PROJECT_DIR$/contabilidad/detalleAsientos.csv" />
+        <option value="$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/pruebaGitRp/Proyecto escrito ERP.md" />
+        <option value="$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/pruebaGitRp/ProyectoescritoERP.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1219" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/pruebaGitRp/ProyectoescritoERP.md" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jose\Desktop\Práctica simulación RP\simulacionRp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\marketing\directorioContactos" />
+      <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos" />
+      <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\reparaciones" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="funciones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_Funciones_departamentos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funciones.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_Funciones_departamentos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_Funciones_departamentos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practica2_Funciones_departamentos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.program (1)" />
+        <item itemvalue="Python.funciones" />
+        <item itemvalue="Python.program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="169f6c9f-c8f8-4db9-b972-d7a89a03d74c" name="Default Changelist" comment="" />
+      <created>1548454031883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548454031883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.17931548" />
+      <window_info id="Structure" order="1" sideWeight="0.6111111" side_tool="true" weight="0.14362109" />
+      <window_info id="Favorites" order="2" sideWeight="0.5020243" side_tool="true" weight="0.14362109" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17176871" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.05102041" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6785714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28911564" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.68367344" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.2857143" />
+      <window_info id="Structure" order="1" sideWeight="0.6111111" side_tool="true" weight="0.14362109" />
+      <window_info id="Favorites" order="2" sideWeight="0.5020243" side_tool="true" weight="0.14362109" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.1734694" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25510204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6785714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28911564" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.68367344" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/reparaciones/orden77.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden59.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden81.csv" />
+    <entry file="file://$PROJECT_DIR$/reparaciones/orden90.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden90.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas1.csv" />
+    <entry file="file://$PROJECT_DIR$/marketing/contactos.py" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas11.csv" />
+    <entry file="file://$PROJECT_DIR$/holamundo.txt" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas13.csv" />
+    <entry file="file://$PROJECT_DIR$/marketing/ofertas/oferta1.txt" />
+    <entry file="file://$PROJECT_DIR$/marketing/ofertas/oferta.txt" />
+    <entry file="file://$PROJECT_DIR$/bibliografia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas4.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas3.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas5.csv" />
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas2.csv" />
+    <entry file="file://$PROJECT_DIR$/../SistemasDeGestiónEmpresarial/Proyecto escrito ERP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" selection-start-line="13" selection-end-line="16" />
+            <folding>
+              <element signature="e#2565#3075#0" />
+              <element signature="e#3055#3609#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facturasVentas/ventas8.csv" />
+    <entry file="file://$PROJECT_DIR$/reparaciones/orden1.csv" />
+    <entry file="file://$PROJECT_DIR$/devoluciones/facturaDevolucion1.csv" />
+    <entry file="file://$PROJECT_DIR$/reparaciones/orden2.csv" />
+    <entry file="file://$PROJECT_DIR$/devoluciones/facturaDevolucion8.csv" />
+    <entry file="file://$PROJECT_DIR$/devoluciones/facturaDevolucion2.csv" />
+    <entry file="file://$PROJECT_DIR$/usuarios.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/simulacionRp.py" />
+    <entry file="file://$PROJECT_DIR$/lenguajes.dat" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura3.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura4.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura5.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura6.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura7.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura8.csv" />
+    <entry file="file://$PROJECT_DIR$/facturas/factura9.csv" />
+    <entry file="file://$PROJECT_DIR$/reclamacionesProveedores/facturaDevolucionProveedor2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archivo_csv_alumnos.csv" />
+    <entry file="file://$PROJECT_DIR$/reclamacionesProveedores/facturaDevolucionProveedor9.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administracion/empleo/ofertaEmpleomecanico.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/pruebaGitRp/Proyecto escrito ERP.md" />
+    <entry file="file://$PROJECT_DIR$/../EjemploReadme/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EjemploReadme/EjemploBonito.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="51" column="52" lean-forward="true" selection-start-line="49" selection-end-line="51" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketing/directorioContactos/contactos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketing/ofertas/oferta2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facturas/factura1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facturas/factura2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contabilidad/detalleAsientos.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketing/ofertas/oferta3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#47#262#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Práctica simulación RP/simulacionRp/pruebaGitRp/ProyectoescritoERP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="305">
+            <caret line="866" column="14" selection-start-line="866" selection-start-column="14" selection-end-line="866" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#180#639#0" />
+            <element signature="e#14037#15848#0" />
+            <element signature="e#20892#21255#0" />
+            <element signature="e#21320#21576#0" />
+            <element signature="e#21719#22648#0" />
+            <element signature="e#24805#25735#0" />
+            <element signature="e#25807#26048#0" />
+            <element signature="e#26121#26386#0" />
+            <element signature="e#26489#27121#0" />
+            <element signature="e#27216#27797#0" />
+            <element signature="e#27898#28645#0" />
+            <element signature="e#28724#29414#0" />
+            <element signature="e#29492#30740#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
