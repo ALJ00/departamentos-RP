@@ -864,7 +864,7 @@ Unidad 01: Introducción a los sistemas ERP-CRM (unidad trabajada en clase).
 
 ## Anexo
 
-![](prueba.mp4)
+[Video Tutorial funcionamiento de la ERP Odoo](https://www.youtube.com/watch?v=_nvZ9k6YpTE&feature=youtu.be)
 
 
 
