@@ -1,9 +1,8 @@
 import csv
 import time
-import random
 import os
 from clases import color
-from os import system
+
 
 # Funcion que muestra al usuario el menu principal
 def mostrar_menu_principal():
@@ -53,7 +52,7 @@ def altaUsuario(usuario, password):
         print("Usuario dado de alta en el sistema correctamente")
 
 # Funcion principal sistema_rp
-def sistema_rp():
+def sistema_erp():
     # Mientras sea True no se saldra del bucle While
     while True:
         # Muestro el menu y cojo el operando retornado por la funcion mostrar_menu_principal() que es quien interactua

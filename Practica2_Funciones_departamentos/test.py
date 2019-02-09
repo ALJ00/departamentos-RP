@@ -1,5 +1,5 @@
-from funciones import sistema_rp
-sistema_rp()
+from funciones import sistema_erp
+sistema_erp()
 
 
 
