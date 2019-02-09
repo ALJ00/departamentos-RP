@@ -289,6 +289,6 @@ Para más detalle se recomienda ver el siguiente vídeo tutorial.
 
 ## Video tutorial del funcionamiento del programa
 
-![Descargar video tutorial](Practica2_Funciones_departamentos/videos/videotutorialconsola.mp4)
+[Descargar video tutorial](Practica2_Funciones_departamentos/videos/videotutorialconsola.mp4)
 
 [Ver video tutorial](https://youtu.be/ZZ28fj-F_k0)
