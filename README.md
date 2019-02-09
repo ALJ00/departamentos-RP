@@ -263,6 +263,18 @@ class color:
 mi_string = color.RED + " Menú ventas ".capitalize().upper() + color.END
 ````
 
+## Bibliografia
+
+- [Manejo de archivos y directorios en python](https://ricardogeek.com/manejo-de-archivos-y-directorios-en-python/)
+
+- [Python Software Foundation - Pure Python MySQL Driver](https://pypi.org/project/PyMySQL/)
+
+- [Crear documentos PDF en Python con ReportLab](https://recursospython.com/guias-y-manuales/crear-documentos-pdf-en-python-con-reportlab/)
+
+- [Negrita python](https://stackoverflow.com/questions/8924173/how-do-i-print-bold-text-in-python)
+
+- [Python 3.7.2 documentation](https://docs.python.org/3/)
+
 ## Conclusión
 Este manual es creado como orientación para la correcta utilización del programa. Como se ha
 podido leer, se encarga de trabajar con ficheros, crearlos, guardar datos, borrarlos, modificarlos y
