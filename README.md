@@ -289,4 +289,4 @@ Para más detalle se recomienda ver el siguiente vídeo tutorial.
 
 ## Video tutorial del funcionamiento del programa
 
-[Video Tutorial](https://www.youtube.com/watch?v=_nvZ9k6YpTE&feature=youtu.be)
+[Video Tutorial](videotutorialconsola.mp4)
