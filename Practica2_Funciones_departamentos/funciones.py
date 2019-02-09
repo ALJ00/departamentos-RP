@@ -3,7 +3,6 @@ import time
 import os
 from clases import color
 
-
 # Funcion que muestra al usuario el menu principal
 def mostrar_menu_principal():
     print("---------------------------------------------------")
