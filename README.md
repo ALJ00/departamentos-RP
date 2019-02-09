@@ -23,7 +23,7 @@ Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguien
 
 - [Menús y submenús](#Menús-y-submenús)
 - [Directorio de carpetas](#Directorio-de-carpetas)
-- [Interacctuación entre departamentos](#Interactuación-entre-departamentos) 
+- [Interactuación entre departamentos](#Interactuación-entre-departamentos) 
 - [Directorio de carpetas](#Directorio-de-carpetas)
 
 ### Menús y submenús
