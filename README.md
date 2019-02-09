@@ -164,7 +164,7 @@ def listado_reparaciones():
 ````
 ## Ejecutar el proyecto
 Para poner en funcionamiento el proyecto descargar este repositorio a local, abrir en `PyCharm` de la carpeta
-del repositorio `Entrega práctica2 Jose Armas\departamentos-RP` la carpeta de proyecto ***Practica2_Funciones_departamentos***.
+del repositorio `departamentos-RP-master` la carpeta de proyecto ***Practica2_Funciones_departamentos***.
 Una vez abierto el proyecto abrir ***test.py*** ya dar a la opción `Run test.py`.
 
 
