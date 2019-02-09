@@ -12,15 +12,23 @@
     <favorites_list name="Practica2_Funciones_departamentos" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="385">
-                <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/funciones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#144#603#0" />
+                <element signature="e#716#1622#0" />
+                <element signature="e#3985#5597#0" />
+                <element signature="e#5674#6099#0" />
+                <element signature="e#6172#6536#0" />
+                <element signature="e#6615#7004#0" />
+                <element signature="e#7119#7493#0" />
+                <element signature="e#7572#7927#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +104,7 @@
             <path>
               <item name="Practica2_Funciones_departamentos" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practica2_Funciones_departamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="contabilidad" type="462c0819:PsiDirectoryNode" />
+              <item name="administracion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,13 +117,14 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jose\Desktop\Práctica simulación RP\simulacionRp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jose\Desktop\Entrega práctica2  Jose Armas\departamentos-RP\Practica2_Funciones_departamentos\administracion\users" />
       <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\marketing\directorioContactos" />
       <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos" />
       <recent name="C:\Users\Jose\Desktop\Practica2_Funciones_departamentos\reparaciones" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jose\Desktop\Práctica simulación RP\simulacionRp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +250,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.2470238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.20163691" />
       <window_info id="Structure" order="1" sideWeight="0.6111111" side_tool="true" weight="0.14362109" />
       <window_info id="Favorites" order="2" sideWeight="0.5020243" side_tool="true" weight="0.14362109" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,21 +365,16 @@
           <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facturas/factura3.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/facturas/factura3.csv" />
     <entry file="file://$PROJECT_DIR$/../ProyectoescritoERP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -408,21 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/funciones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13399">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#144#603#0" />
-            <element signature="e#716#1622#0" />
-            <element signature="e#1678#3440#0" />
-            <element signature="e#3985#5597#0" />
-            <element signature="e#5674#6099#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -437,6 +426,24 @@
             <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#144#603#0" />
+            <element signature="e#716#1622#0" />
+            <element signature="e#3985#5597#0" />
+            <element signature="e#5674#6099#0" />
+            <element signature="e#6172#6536#0" />
+            <element signature="e#6615#7004#0" />
+            <element signature="e#7119#7493#0" />
+            <element signature="e#7572#7927#0" />
+          </folding>
         </state>
       </provider>
     </entry>
