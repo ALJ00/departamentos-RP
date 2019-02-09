@@ -289,4 +289,5 @@ Para más detalle se recomienda ver el siguiente vídeo tutorial.
 
 ## Video tutorial del funcionamiento del programa
 
-[Video Tutorial](videotutorialconsola.mp4)
+[Descargar video tutorial](Practica2_Funciones_departamentos/videos/videotutorialconsola.mp4)
+![Ver video tutorial]()
