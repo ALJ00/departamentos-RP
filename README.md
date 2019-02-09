@@ -13,9 +13,9 @@ Como requerimiento de la práctica se debe trabajar la siguiente materia:
 - Programar 4 departamentos.
 - Creación de 4 opciones por departamento.
 - Persistencia de datos usando csv y txt.
-- Trabajar Strings, Ficheros, Excepciones, Listas y Diccionarios.
+- Trabajar Strings, Ficheros, Excepciones, Funciones, Listas y Diccionarios.
 - Funcianiemto correcto del programa.
-- Crear funciones.
+
 
 ## Estructura
 
@@ -63,7 +63,7 @@ Teniendo en cuenta los requerimientos de la práctica se ha realizado la siguien
     
 ![](Practica2_Funciones_departamentos/imagenes/directorios.PNG)
 
-### Interacctuación entre departamentos
+### Interactuación entre departamentos
 
 ***Explicación código ->***
 Con la siguiente función se puede ver la simulación de una ERP internamente, es decir,
@@ -264,7 +264,7 @@ mi_string = color.RED + " Menú ventas ".capitalize().upper() + color.END
 ````
 
 ## Conclusión
-Este manual es creado como orientación para la correcta utilización del programa. Como se 
+Este manual es creado como orientación para la correcta utilización del programa. Como se ha
 podido leer, se encarga de trabajar con ficheros, crearlos, guardar datos, borrarlos, modificarlos y
 el manejo de Strings, excepciones, listas, diccionarios y funciones.
 Para más detalle se recomienda ver el siguiente vídeo tutorial.
