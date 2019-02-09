@@ -60,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contabilidad/detalleAsientos.csv">
           <provider selected="true" editor-type-id="csv-text-editor">
             <state>
@@ -69,6 +69,18 @@
           </provider>
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ProyectoescritoERP.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="46" selection-start-column="46" selection-end-column="46" />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
@@ -106,10 +118,11 @@
         <option value="$PROJECT_DIR$/usuarios.csv" />
         <option value="$PROJECT_DIR$/funciones.py" />
         <option value="$PROJECT_DIR$/contabilidad/detalleAsientos.csv" />
+        <option value="$PROJECT_DIR$/../ProyectoescritoERP.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1219" />
     <option name="height" value="735" />
@@ -171,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProyectoescritoERP.md" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -307,12 +320,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.2470238" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.2470238" />
       <window_info id="Structure" order="1" sideWeight="0.6111111" side_tool="true" weight="0.14362109" />
       <window_info id="Favorites" order="2" sideWeight="0.5020243" side_tool="true" weight="0.14362109" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7346939" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.05102041" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19387755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6785714" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,7 +362,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden59.csv" />
     <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden81.csv" />
     <entry file="file://$PROJECT_DIR$/reparaciones/orden90.csv" />
     <entry file="file://$PROJECT_DIR$/facturasTaller/facturaOrden90.csv" />
@@ -486,6 +498,16 @@
       </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProyectoescritoERP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="46" selection-start-column="46" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>

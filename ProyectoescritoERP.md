@@ -1,4 +1,4 @@
-![](Practica2_Funciones_departamentos/BikeLogo.png)
+![](Practica2_Funciones_departamentos/imagenes/BikeLogo.png)
 # Proyecto RP
 
 * [Introducción](#Introducción)
